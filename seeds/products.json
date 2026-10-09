@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "prod_001",
+    "title": "Musaffo Sut 3.2% 1L",
+    "category": "Sut va sut mahsulotlari",
+    "price": 12000,
+    "unit": "litr",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_002",
+    "title": "Musaffo Sut 2.5% 1L",
+    "category": "Sut va sut mahsulotlari",
+    "price": 11000,
+    "unit": "litr",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_003",
+    "title": "Kamilka Sut 3.2% 900ml",
+    "category": "Sut va sut mahsulotlari",
+    "price": 10500,
+    "unit": "litr",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1527153857715-3908f2ae5e81?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_004",
+    "title": "Nestlé Sut 1L",
+    "category": "Sut va sut mahsulotlari",
+    "price": 15000,
+    "unit": "litr",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_005",
+    "title": "President Sariyog' 82% 200g",
+    "category": "Sut va sut mahsulotlari",
+    "price": 34000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_006",
+    "title": "Anchor Sariyog' 82.5% 200g",
+    "category": "Sut va sut mahsulotlari",
+    "price": 36000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_007",
+    "title": "Qaymoq Toshkent 200g",
+    "category": "Sut va sut mahsulotlari",
+    "price": 18000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1588710929895-5db468153406?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_008",
+    "title": "Qaymoq Qishloqcha 500g",
+    "category": "Sut va sut mahsulotlari",
+    "price": 38000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1588710929895-5db468153406?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_009",
+    "title": "Musaffo Qatiq 3.2% 1L",
+    "category": "Sut va sut mahsulotlari",
+    "price": 10000,
+    "unit": "litr",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_010",
+    "title": "Kamilka Qatiq 1L",
+    "category": "Sut va sut mahsulotlari",
+    "price": 9500,
+    "unit": "litr",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_011",
+    "title": "President Tvorog 9% 200g",
+    "category": "Sut va sut mahsulotlari",
+    "price": 22000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_012",
+    "title": "Domik v Derevne Tvorog 5% 250g",
+    "category": "Sut va sut mahsulotlari",
+    "price": 24000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_013",
+    "title": "Viola Eriydigan pishloq 400g",
+    "category": "Sut va sut mahsulotlari",
+    "price": 42000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_014",
+    "title": "Hochland Pishloq Plastinka 150g",
+    "category": "Sut va sut mahsulotlari",
+    "price": 23000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1624806992066-5ffcf7ca186b?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_015",
+    "title": "Rossiyskiy Pishloq 1kg",
+    "category": "Sut va sut mahsulotlari",
+    "price": 98000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1452195100486-9cc805987862?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_016",
+    "title": "Gollandskiy Pishloq 1kg",
+    "category": "Sut va sut mahsulotlari",
+    "price": 105000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1452195100486-9cc805987862?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_017",
+    "title": "Mozzarella Pishloq 250g",
+    "category": "Sut va sut mahsulotlari",
+    "price": 32000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1589881133595-a3c085cb731d?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_018",
+    "title": "Suluguni Pishloq 300g",
+    "category": "Sut va sut mahsulotlari",
+    "price": 29000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1589881133595-a3c085cb731d?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_019",
+    "title": "Musaffo Smetana 20% 400g",
+    "category": "Sut va sut mahsulotlari",
+    "price": 16000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1588710929895-5db468153406?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_020",
+    "title": "Kamilka Smetana 15% 350g",
+    "category": "Sut va sut mahsulotlari",
+    "price": 14000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1588710929895-5db468153406?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_021",
+    "title": "Danone Mevali yogurt 115g",
+    "category": "Sut va sut mahsulotlari",
+    "price": 7000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1571212515416-fef01fc43637?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_022",
+    "title": "Activia Ichimlik yogurti 290ml",
+    "category": "Sut va sut mahsulotlari",
+    "price": 12000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1571212515416-fef01fc43637?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_023",
+    "title": "Rastishka Bolalar yogurti 4x100g",
+    "category": "Sut va sut mahsulotlari",
+    "price": 25000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1571212515416-fef01fc43637?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_024",
+    "title": "Suzma Qishloqcha 500g",
+    "category": "Sut va sut mahsulotlari",
+    "price": 15000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_025",
+    "title": "Quyultirilgan sut Alekseevskoe 380g",
+    "category": "Sut va sut mahsulotlari",
+    "price": 21000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_026",
+    "title": "Buxanka non (Qolipli non)",
+    "category": "Non va pishiriqlar",
+    "price": 3000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1586444248902-2f64eddc13df?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_027",
+    "title": "Samarqand patir noni",
+    "category": "Non va pishiriqlar",
+    "price": 10000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_028",
+    "title": "Toshkent shirmoy non",
+    "category": "Non va pishiriqlar",
+    "price": 8000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_029",
+    "title": "Jizzax patir noni",
+    "category": "Non va pishiriqlar",
+    "price": 12000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_030",
+    "title": "Tandir noni an'anaviy",
+    "category": "Non va pishiriqlar",
+    "price": 4000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_031",
+    "title": "Yupqa lavash xamiri 5 dona",
+    "category": "Non va pishiriqlar",
+    "price": 7000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_032",
+    "title": "Dumaloq lavash xamiri 3 dona",
+    "category": "Non va pishiriqlar",
+    "price": 6000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_033",
+    "title": "Baget non fransuzcha",
+    "category": "Non va pishiriqlar",
+    "price": 7500,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1589367920969-ab8e050bbb04?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_034",
+    "title": "Toast oq noni kesilgan 400g",
+    "category": "Non va pishiriqlar",
+    "price": 11000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1586444248902-2f64eddc13df?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_035",
+    "title": "Qora non (Borodinskiy) 400g",
+    "category": "Non va pishiriqlar",
+    "price": 8500,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_036",
+    "title": "Kunjutli bulochka 2 dona",
+    "category": "Non va pishiriqlar",
+    "price": 6000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_037",
+    "title": "Shokoladli kruassan 2 dona",
+    "category": "Non va pishiriqlar",
+    "price": 14000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_038",
+    "title": "Vanilli keks 350g",
+    "category": "Non va pishiriqlar",
+    "price": 18000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_039",
+    "title": "Choko-pay pechenyesi 12 dona",
+    "category": "Non va pishiriqlar",
+    "price": 26000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_040",
+    "title": "Yubileynoe sariyog'li pechenye 313g",
+    "category": "Non va pishiriqlar",
+    "price": 13000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_041",
+    "title": "Oreo pechenyesi 154g",
+    "category": "Non va pishiriqlar",
+    "price": 14000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_042",
+    "title": "Pryorika qatlama xamiri 500g",
+    "category": "Non va pishiriqlar",
+    "price": 16000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_043",
+    "title": "Brik xamir yupqa muzlatilgan",
+    "category": "Non va pishiriqlar",
+    "price": 15000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_044",
+    "title": "Qandolatchilik pryaniklari 400g",
+    "category": "Non va pishiriqlar",
+    "price": 12000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_045",
+    "title": "Qarsildoq suxarilar mayizli 300g",
+    "category": "Non va pishiriqlar",
+    "price": 10000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_046",
+    "title": "Baranka vanilli 350g",
+    "category": "Non va pishiriqlar",
+    "price": 9500,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_047",
+    "title": "Medovik pirogi 500g",
+    "category": "Non va pishiriqlar",
+    "price": 35000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_048",
+    "title": "Napoleon pirogi 450g",
+    "category": "Non va pishiriqlar",
+    "price": 38000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_049",
+    "title": "Xachapuri pishloqli 200g",
+    "category": "Non va pishiriqlar",
+    "price": 15000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_050",
+    "title": "Somsa go'shtli 1 dona",
+    "category": "Non va pishiriqlar",
+    "price": 9000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_051",
+    "title": "Qizil kartoshka yangi hosil",
+    "category": "Sabzavot va mevalar",
+    "price": 6000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_052",
+    "title": "Sariq piyoz saralangan",
+    "category": "Sabzavot va mevalar",
+    "price": 4000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1508747703725-719777637510?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_053",
+    "title": "Qizil sabzi shirin",
+    "category": "Sabzavot va mevalar",
+    "price": 4500,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_054",
+    "title": "Sariq sabzi oshpazbop",
+    "category": "Sabzavot va mevalar",
+    "price": 4000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_055",
+    "title": "Qizil pushti pomidor Yusufevski",
+    "category": "Sabzavot va mevalar",
+    "price": 18000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_056",
+    "title": "Bodring mayda bodring",
+    "category": "Sabzavot va mevalar",
+    "price": 14000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1604977042946-1eecc30f269e?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_057",
+    "title": "Qalampir shirin bolgar",
+    "category": "Sabzavot va mevalar",
+    "price": 22000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_058",
+    "title": "Oq karam saralangan",
+    "category": "Sabzavot va mevalar",
+    "price": 5000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1594282486552-05b4d80fbb9f?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_059",
+    "title": "Gulkaram yangi",
+    "category": "Sabzavot va mevalar",
+    "price": 16000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1568584711075-3d021a7c3ca3?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_060",
+    "title": "Sarimsoqpiyoz tozalangan",
+    "category": "Sabzavot va mevalar",
+    "price": 35000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1540148426945-6cf22a6b2383?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_061",
+    "title": "Ko'katlar to'plami (kashnich, shivit, rayhon)",
+    "category": "Sabzavot va mevalar",
+    "price": 4000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_062",
+    "title": "Ismaloq yangi bog'lam",
+    "category": "Sabzavot va mevalar",
+    "price": 5000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_063",
+    "title": "Baqlajon saralangan",
+    "category": "Sabzavot va mevalar",
+    "price": 15000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1615484477778-ca3b77940c25?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_064",
+    "title": "Qovoqcha (Kabachki)",
+    "category": "Sabzavot va mevalar",
+    "price": 12000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1590779033100-9f60a05a013d?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_065",
+    "title": "Qizil lavlagi",
+    "category": "Sabzavot va mevalar",
+    "price": 5000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_066",
+    "title": "Banan Ekvador Premium",
+    "category": "Sabzavot va mevalar",
+    "price": 24000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_067",
+    "title": "Olma Beshyulduz",
+    "category": "Sabzavot va mevalar",
+    "price": 16000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_068",
+    "title": "Olma Semerenko",
+    "category": "Sabzavot va mevalar",
+    "price": 14000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_069",
+    "title": "Nok Nokcha shirin",
+    "category": "Sabzavot va mevalar",
+    "price": 28000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1514756331096-242fdeb7004a?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_070",
+    "title": "Mandarin Marokash",
+    "category": "Sabzavot va mevalar",
+    "price": 32000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1557800636-894a64c1696f?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_071",
+    "title": "Apelsin suvli",
+    "category": "Sabzavot va mevalar",
+    "price": 26000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1547514701-42782101795e?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_072",
+    "title": "Limon Toshkent yangi",
+    "category": "Sabzavot va mevalar",
+    "price": 30000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1534939561126-855b8675edd7?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_073",
+    "title": "Uzum Qora kishmish",
+    "category": "Sabzavot va mevalar",
+    "price": 25000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1537640538966-79f369143f8f?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_074",
+    "title": "Anor Quva shirin",
+    "category": "Sabzavot va mevalar",
+    "price": 35000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1541344999736-83eca272f6fc?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_075",
+    "title": "Qulupnay mavsumiy 500g",
+    "category": "Sabzavot va mevalar",
+    "price": 28000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_076",
+    "title": "Yangi mol go'shti lahm",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 115000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_077",
+    "title": "Yangi mol go'shti suyakli",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 98000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1588168333986-5078d3ae3976?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_078",
+    "title": "Mol go'shti qiymasi saralangan",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 105000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1551028150-64b9f398f678?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_079",
+    "title": "Qo'y go'shti to'sh qismi",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 110000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_080",
+    "title": "Butun tovuq go'shti muzlatilgan",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 38000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_081",
+    "title": "Tovuq filesi (ko'krak go'shti)",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 52000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_082",
+    "title": "Tovuq sonlari",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 42000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_083",
+    "title": "Tovuq qanotlari",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 39000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_084",
+    "title": "Rozmetov Doktorskaya kolbasa 500g",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 42000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1628102491629-778571d893a3?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_085",
+    "title": "Rozmetov Halol Dudlangan kolbasa 400g",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 46000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_086",
+    "title": "Sagban Halol Servelat 450g",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 44000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_087",
+    "title": "Sherin Halol Mol go'shtli sosiska 500g",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 38000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1585325701165-351af916e581?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_088",
+    "title": "Rozmetov Bolalar sosiskasi 400g",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 35000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1585325701165-351af916e581?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_089",
+    "title": "To'xtaniyoz Ota Dudlangan qazi 400g",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 75000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_090",
+    "title": "Uy qazisi an'anaviy 1 dona",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 85000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_091",
+    "title": "Sagban Pishloqli sosiska 450g",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 39000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1585325701165-351af916e581?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_092",
+    "title": "Tovuqli vetchina Sherin 400g",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 34000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1628102491629-778571d893a3?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_093",
+    "title": "Dudlangan tovuq go'shti butun",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 58000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_094",
+    "title": "Tovuq naggetslari muzlatilgan 400g",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 26000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1562967914-608f82629710?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_095",
+    "title": "Muzlatilgan chuchvara mol go'shtli 500g",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 32000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_096",
+    "title": "Muzlatilgan kotlet mol go'shtli 450g",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 34000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_097",
+    "title": "Muzlatilgan manti mol go'shti bilan 800g",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 45000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_098",
+    "title": "Dudlangan kurka go'shti filesi 300g",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 48000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1628102491629-778571d893a3?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_099",
+    "title": "Jigar mol go'shti yangi",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 65000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1588168333986-5078d3ae3976?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_100",
+    "title": "Til mol go'shti saralangan",
+    "category": "Go'sht va kolbasa mahsulotlari",
+    "price": 95000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1588168333986-5078d3ae3976?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_101",
+    "title": "Toshkent Un Oliy Nav 1kg",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 14000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_102",
+    "title": "Toshkent Un Oliy Nav 2kg",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 26000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_103",
+    "title": "Makfa Oliy Nav Bug'doy Uni 2kg",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 32000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_104",
+    "title": "Alanga guruchi tozalangan",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 22000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_105",
+    "title": "Lazar guruchi a'lo sifat",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 28000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_106",
+    "title": "Devzira guruchi Chust",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 35000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_107",
+    "title": "Makfa Makaron Spirali 450g",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 11000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1551462147-ff29053bfc14?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_108",
+    "title": "Makfa Makaron Spagetti 500g",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 12000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1621996346565-e3d5d6281729?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_109",
+    "title": "Barilla Spagetti No.5 500g",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 22000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1621996346565-e3d5d6281729?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_110",
+    "title": "Barilla Penne Rigate 500g",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 22000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1551462147-ff29053bfc14?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_111",
+    "title": "Oq shakar tozalangan 1kg",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 14000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_112",
+    "title": "Shakar qand 500g",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 9000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_113",
+    "title": "Osh tuzi yodlangan Osh tuzi 1kg",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 3000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_114",
+    "title": "Schedroe Leto Kungaboqar yog'i 1L",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 18000,
+    "unit": "litr",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_115",
+    "title": "Oleina Kungaboqar yog'i 1L",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 19000,
+    "unit": "litr",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_116",
+    "title": "Zateya Kungaboqar yog'i 1L",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 18500,
+    "unit": "litr",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_117",
+    "title": "Paxta yog'i Elita tozalangan 1L",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 20000,
+    "unit": "litr",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_118",
+    "title": "Grechka yormasi Makfa 800g",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 16000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_119",
+    "title": "Suli yormasi (Gerkulex) 400g",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 9000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_120",
+    "title": "Mosh saralangan o'zbek",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 18000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_121",
+    "title": "No'xat oshpazbop saralangan",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 20000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_122",
+    "title": "Qizil loviya saralangan",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 24000,
+    "unit": "kg",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_123",
+    "title": "Mannaya yormasi 800g",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 8500,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_124",
+    "title": "Kuskus doni 500g",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 26000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_125",
+    "title": "Mayonez Provansal Sloboda 67% 400ml",
+    "category": "Quruq oziq-ovqatlar",
+    "price": 16000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1528751014936-863e6e7a319c?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_126",
+    "title": "Coca-Cola Classic 1.5L",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 14000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_127",
+    "title": "Coca-Cola Zero 1.5L",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 14000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1554866585-cd94860890b7?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_128",
+    "title": "Fanta Orange 1.5L",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 14000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1624517452488-04869289c4ca?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_129",
+    "title": "Sprite 1.5L",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 14000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1625772299848-391b6a87d7b3?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_130",
+    "title": "Pepsi Cola 1.5L",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 13000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1567103472667-6898f3a79cf2?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_131",
+    "title": "Nestlé Pure Life Gazsiz suv 1.5L",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 5000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_132",
+    "title": "Nestlé Pure Life Gazsiz suv 5L",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 12000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_133",
+    "title": "Chortoq Gazlangan mineral suv 0.5L shisha",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 7000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1523362628745-0c100150b504?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_134",
+    "title": "Borjomi Gazlangan mineral suv 0.5L shisha",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 16000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1523362628745-0c100150b504?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_135",
+    "title": "Hydrolife Gazsiz mineral suv 1.5L",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 4500,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1548839140-29a749e1bc4e?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_136",
+    "title": "Bliss Olma sharbati 1L",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 15000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_137",
+    "title": "Bliss Apelsin sharbati 1L",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 16000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1613478223719-2ab802602423?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_138",
+    "title": "Dena Olcha sharbati 1L",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 14000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1546173159-315724a31696?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_139",
+    "title": "Dena Shaftoli sharbati 1L",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 14000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_140",
+    "title": "Sandora Pomidor sharbati 1L",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 21000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1546173159-315724a31696?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_141",
+    "title": "Ahmad Tea Qora choy Ceylon 100g",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 24000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_142",
+    "title": "Greenfield Golden Ceylon 25 paket",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 22000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_143",
+    "title": "Tess Sunrise Qora choy 100 paket",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 45000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_144",
+    "title": "Ahmad Tea Ko'k choy Jasmine 100g",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 25000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1627435601361-ec25f5b1d0e5?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_145",
+    "title": "Toshkent Choy Ko'k choy 95 100g",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 7000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1627435601361-ec25f5b1d0e5?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_146",
+    "title": "Nescafé Classic Qahva eruvchan 100g",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 34000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_147",
+    "title": "Jacobs Monarch Qahva eruvchan 95g",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 48000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_148",
+    "title": "MacCoffee 3-in-1 Original 25 dona",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 32000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_149",
+    "title": "Red Bull Energetik ichimlik 250ml",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 22000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1622543925917-763c34d1a86e?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_150",
+    "title": "Flash Up Energetik ichimlik 450ml",
+    "category": "Ichimliklar va sharbatlar",
+    "price": 10000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1622543925917-763c34d1a86e?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_151",
+    "title": "Ariel Avtomat Kir yuvish kukuni Tog' havosi 3kg",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 85000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_152",
+    "title": "Tide Avtomat Kir yuvish kukuni Lenor bilan 3kg",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 78000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_153",
+    "title": "Persil Deep Clean Avtomat kukun 3kg",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 92000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_154",
+    "title": "Fairy Limon Idish yuvish suyuqligi 900ml",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 26000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1585670270608-b4be4fbcfbf5?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_155",
+    "title": "Fairy Olma Idish yuvish suyuqligi 450ml",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 15000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1585670270608-b4be4fbcfbf5?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_156",
+    "title": "Pril Idish yuvish geli 450ml",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 14000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1585670270608-b4be4fbcfbf5?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_157",
+    "title": "Domestos Ultra Oqartiruvchi tozalovchi vosita 1L",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 24000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_158",
+    "title": "Cillit Bang Zang va ohak tozalovchi sprey 750ml",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 36000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1585670270608-b4be4fbcfbf5?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_159",
+    "title": "Cif Universal Tozalovchi krem 500ml",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 23000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_160",
+    "title": "Mr. Proper Pol tozalovchi suyuqlik Limon 1L",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 25000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_161",
+    "title": "Lenor Mato yumshatgich Skandinaviya bahori 1L",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 32000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_162",
+    "title": "Vanish Oxi Action Dog' ketkazuvchi 450ml",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 38000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_163",
+    "title": "Somat Idish yuvish mashinasi tabletkasi 24 dona",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 68000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_164",
+    "title": "Finish All in 1 Idish yuvish tabletkalari 30 dona",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 78000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_165",
+    "title": "Duru Qo'l sovuni 4x90g",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 18000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1607006314146-59a8c08ec200?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_166",
+    "title": "Safeguard Antibakterial qattiq sovun 90g",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 9000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1607006314146-59a8c08ec200?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_167",
+    "title": "Palmolive Suyuq qo'l sovuni 300ml",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 22000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1608248597359-009772c589b9?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_168",
+    "title": "Head & Shoulders Qazg'oqqa qarshi shampun 400ml",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 46000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_169",
+    "title": "Pantene Pro-V Shampun Oziqlantiruvchi 400ml",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 44000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_170",
+    "title": "Clear Men Erkaklar shampuni Muzdek tetiklik 400ml",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 45000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_171",
+    "title": "Colgate Total Tish pastasi 100ml",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 19000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1559591937-e1053158c35a?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_172",
+    "title": "Blend-a-med 3D White Tish pastasi 100ml",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 18000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1559591937-e1053158c35a?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_173",
+    "title": "Clin Oyna tozalovchi sprey 500ml",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 21000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1585670270608-b4be4fbcfbf5?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_174",
+    "title": "Glade Havo xushbo'ylantiruvchi sprey 300ml",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 24000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_175",
+    "title": "Air Wick Avtomatik havo xushbo'ylantiruvchi balon 250ml",
+    "category": "Tozalash va maishiy kimyo vositalari",
+    "price": 45000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_176",
+    "title": "Paclan Oshxona alyuminiy folgasi 10m",
+    "category": "Ro'zg'or buyumlari",
+    "price": 14000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_177",
+    "title": "Master FRESH Oziq-ovqat pishirish plyonkasi 20m",
+    "category": "Ro'zg'or buyumlari",
+    "price": 11000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_178",
+    "title": "Perforatsiyalangan pishirish pergamenti 5m",
+    "category": "Ro'zg'or buyumlari",
+    "price": 12000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_179",
+    "title": "Chistyulya Oshxona idish gubkasi 5 dona",
+    "category": "Ro'zg'or buyumlari",
+    "price": 8000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1585670270608-b4be4fbcfbf5?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_180",
+    "title": "Profilak metall idish qirg'ichi 2 dona",
+    "category": "Ro'zg'or buyumlari",
+    "price": 6000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1585670270608-b4be4fbcfbf5?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_181",
+    "title": "Mikrofibra oshxona salfetkasi 3 dona",
+    "category": "Ro'zg'or buyumlari",
+    "price": 16000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_182",
+    "title": "Selpak 3 qavatli oshxona qog'oz sochiq 2 rulon",
+    "category": "Ro'zg'or buyumlari",
+    "price": 22000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584556812952-905ffd0c611a?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_183",
+    "title": "Papia 3 qavatli oshxona sochiq 2 rulon",
+    "category": "Ro'zg'or buyumlari",
+    "price": 21000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584556812952-905ffd0c611a?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_184",
+    "title": "Zewa Deluxe 3 qavatli tualet qog'ozi 4 rulon",
+    "category": "Ro'zg'or buyumlari",
+    "price": 25000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584556812952-905ffd0c611a?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_185",
+    "title": "Familia Plus 2 qavatli tualet qog'ozi 8 rulon",
+    "category": "Ro'zg'or buyumlari",
+    "price": 32000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584556812952-905ffd0c611a?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_186",
+    "title": "Nam salfetkalar antibakterial 72 dona",
+    "category": "Ro'zg'or buyumlari",
+    "price": 12000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_187",
+    "title": "Bolalar uchun gipoallergen nam salfetkalar 120 dona",
+    "category": "Ro'zg'or buyumlari",
+    "price": 18000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_188",
+    "title": "Axlat qoplari mustahkam 35L 30 dona",
+    "category": "Ro'zg'or buyumlari",
+    "price": 11000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_189",
+    "title": "Axlat qoplari bog'ichli 60L 20 dona",
+    "category": "Ro'zg'or buyumlari",
+    "price": 17000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_190",
+    "title": "Axlat qoplari katta hajmli 120L 10 dona",
+    "category": "Ro'zg'or buyumlari",
+    "price": 19000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_191",
+    "title": "Bir martalik rezina qo'lqoplar L 10 juft",
+    "category": "Ro'zg'or buyumlari",
+    "price": 18000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_192",
+    "title": "Oshxona xo'jalik rezina qo'lqopi M 1 juft",
+    "category": "Ro'zg'or buyumlari",
+    "price": 9000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_193",
+    "title": "Tish tozalagich (zubochistka) qutida 200 dona",
+    "category": "Ro'zg'or buyumlari",
+    "price": 6000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_194",
+    "title": "Quloq tozalagich paxtali tayoqchalar 200 dona",
+    "category": "Ro'zg'or buyumlari",
+    "price": 8000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_195",
+    "title": "Kosmetik paxta disklari 100 dona",
+    "category": "Ro'zg'or buyumlari",
+    "price": 12000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_196",
+    "title": "Bir martalik qog'oz stakanlar 200ml 50 dona",
+    "category": "Ro'zg'or buyumlari",
+    "price": 15000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1577705998148-6da4f3963bc8?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_197",
+    "title": "Bir martalik plastik likopchalar 10 dona",
+    "category": "Ro'zg'or buyumlari",
+    "price": 7000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1577705998148-6da4f3963bc8?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_198",
+    "title": "Oshxona gugurti 10 quti",
+    "category": "Ro'zg'or buyumlari",
+    "price": 5000,
+    "unit": "pachka",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_199",
+    "title": "Maishiy oshxona yondirgichi (zajigalka)",
+    "category": "Ro'zg'or buyumlari",
+    "price": 12000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "prod_200",
+    "title": "Kiyimlar uchun yopishqoq rolik 60 qatlam",
+    "category": "Ro'zg'or buyumlari",
+    "price": 16000,
+    "unit": "dona",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&auto=format&fit=crop&q=80"
+  }
+]
